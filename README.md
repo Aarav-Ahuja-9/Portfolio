@@ -30,3 +30,9 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 2. Navigate to the project folder:
    ```bash
    cd Portfolio
+## 📦 Deployment
+This project is deployed using GitHub Pages.
+🔗 https://aarav-ahuja-9.github.io/Portfolio/
+
+## 🙌 Acknowledgements
+Thanks to all the open-source resources and inspiration from the developer community.
